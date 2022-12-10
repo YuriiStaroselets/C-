@@ -1,0 +1,33 @@
+D:\КН-319\ООП\Lab3\Task1\Task1\bin\Debug\Task1.exe.config
+D:\КН-319\ООП\Lab3\Task1\Task1\bin\Debug\Task1.exe
+D:\КН-319\ООП\Lab3\Task1\Task1\bin\Debug\Task1.pdb
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.Form1.resources
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.exe
+D:\КН-319\ООП\Lab3\Task1\Task1\obj\Debug\Task1.pdb
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\bin\Debug\Task1.exe.config
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\bin\Debug\Task1.exe
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\bin\Debug\Task1.pdb
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.Form1.resources
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.exe
+D:\КН-319\ООП\OlegVisotski\Lab3\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\yurii\OneDrive\Робочий стіл\Lab3\Task1\Task1\obj\Debug\Task1.pdb
